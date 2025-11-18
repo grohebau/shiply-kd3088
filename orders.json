@@ -1,0 +1,47 @@
+{
+  "S52842": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Thomas Kehl, Bleichestraße 9, 79576 Weil am Rhein, Deutschland",
+    "receiver": "Thomas Sacher, Ahornweg 19, 4050 Traun, Österreich",
+    "price": "2.750 €",
+    "description": "Hersteller: Zündapp<br>Typ: KS 50<br>Fahrgestelnummer: 5919240<br>Erstzulassung: 07/1976<br>KM laut Vorbesitzer: 30.262 km<br>Leistung: 5 kW (7 PS)<br>Hubraum: 49 cm³<br>Farbe: Rot<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Thomas Sacher<br>Ahornweg 19<br>4050 Traun<br>Österreich<br>Telefon: +43 660 4147005",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "18.11.2025",
+    "deliveryDate": "24.11.2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
